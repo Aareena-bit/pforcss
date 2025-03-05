@@ -1,0 +1,5 @@
+h2 {
+    font-size: 2.5rem; /* to increase the size of the heading */
+    color: #007BFF; /*  color for the heading */
+    margin-bottom: 20px; /* To create space below the heading */
+}

@@ -1,0 +1,15 @@
+body{
+    background-color: bisque;
+   
+}
+nav ul li a {
+    border: 1px solid black;
+    border-radius: 1em;
+    padding: 1em;
+    
+}
+nav ul li{
+list-style: none;
+display: inline-block;
+padding: 1em;
+}
